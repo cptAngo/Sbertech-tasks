@@ -1,2 +1,2 @@
-#Sbetrech-tasks 
+# Sbetrech-tasks 
 MIPT student, Sbertech
