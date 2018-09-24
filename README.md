@@ -1,2 +1,2 @@
-# VzaimnayaLove
+#Sbetrech-tasks 
 MIPT student, Sbertech
